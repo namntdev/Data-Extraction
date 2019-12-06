@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data Extraction</string>
+    <string name="tap_on_mic">Nhấn vào mic</string>
+    <string name="speech_prompt">Hãy nói gì đi bạn</string>
+    <string name="speech_not_supported">Xin lỗi! Thiết bị của bạn không hỗ trợ mic</string>
+    <string name="hello_world">Xin chào các bạn!</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="close">Đóng</string>
+    <string name="order_title">Yêu cầu</string>
+</resources>
