@@ -15,11 +15,11 @@ public class MyApplication extends Application {
         // Create a new Locale object
 
         // Create a new configuration object
-        setAppLocale();
+        //setAppLocale();
     }
 
     private void setAppLocale(){
-        Locale locale = new Locale(Locales.);
+        Locale locale = new Locale("vi","VN");
         Locale.setDefault(locale);
         Resources resources = getResources();
         DisplayMetrics dm = resources.getDisplayMetrics();

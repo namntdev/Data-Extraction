@@ -142,5 +142,17 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
+    public static int convertQuantity(String quantity) {
+        int res = 0;
+        String quantityList[] = {"không","một", "hai", "ba", "bốn", "năm", "sáu", "bảy", "tám", "chín", "mười"};
+        for (int i=0; i<quantityList.length; i++ ) {
+            if (quantityList[i].equalsIgnoreCase(quantity)) {
+                res = i;
+                break;
+            }
+        }
+
+        return res;
+    }
 
 }
