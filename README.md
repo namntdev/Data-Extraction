@@ -9,21 +9,21 @@ Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh,
 * Tìm thư viện, platform xử lý text để hiểu nghĩa và phân tách các từ.
 
 ### Tìm kiếm các giải pháp liên quan:
-#### Keywords:
+* Keywords:
 | data extraction from audio | speech to text vietnamese | nlp vietnamese |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+| ... | ... | ... |
+| ... | ... | ... |
 
-#### Các vấn đề cần tham khảo:
-* http://redshiftcompany.com/product-demo/
-* https://cloud.google.com/community/tutorials/data-science-extraction
-* https://cloud.google.com/speech-to-text/
-* https://fpt.ai/stt/
-* https://github.com/anhnguyen9a7/vietnamese-speech-to-text-wavenet
-* https://github.com/vncorenlp/VnCoreNLP
-* https://viblo.asia/p/ban-ve-xu-ly-ngon-ngu-tieng-viet-924lJYdYZPM
-* https://github.com/undertheseanlp/underthesea/wiki/ 
+* Các vấn đề cần tham khảo:
+	* http://redshiftcompany.com/product-demo/
+	* https://cloud.google.com/community/tutorials/data-science-extraction
+	* https://cloud.google.com/speech-to-text/
+	* https://fpt.ai/stt/
+	* https://github.com/anhnguyen9a7/vietnamese-speech-to-text-wavenet
+	* https://github.com/vncorenlp/VnCoreNLP
+	* https://viblo.asia/p/ban-ve-xu-ly-ngon-ngu-tieng-viet-924lJYdYZPM
+	* https://github.com/undertheseanlp/underthesea/wiki/ 
 
 ### Giải pháp demo:
 * Client Android: 
@@ -34,8 +34,8 @@ Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh,
 	* Sử dụng core Natural language processing (NLP) để phân tích text từ https://github.com/vncorenlp/VnCoreNLP 
 
 ### 4. Kết quả
-**Hình minh họa**
+* Link video: https://youtu.be/vnWv7vRWLx4
+
+* Hình minh họa
 <kbd><img title="Hình minh họa" src="https://raw.githubusercontent.com/namntdev/Data-Extraction/master/result.jpg"></kbd><br/>
 
-**Link video**
-https://youtu.be/vnWv7vRWLx4
