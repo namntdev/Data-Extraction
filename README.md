@@ -26,16 +26,16 @@ Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh,
 * https://github.com/undertheseanlp/underthesea/wiki/ 
 
 ### Giải pháp demo:
-#### Client Android: 
-* Sử dụng library sẵn có trong SDK phần chuyển từ voice sang text
-* Gọi API lên server để phân tích đoạn text
-#### Server Spring boot:
-* Sử dụng framework Spring boot để dụng API 
-* Sử dụng core Natural language processing (NLP) để phân tích text từ https://github.com/vncorenlp/VnCoreNLP 
+* Client Android: 
+	* Sử dụng library sẵn có trong SDK phần chuyển từ voice sang text
+	* Gọi API lên server để phân tích đoạn text
+* Server Spring boot:
+	* Sử dụng framework Spring boot để dụng API 
+	* Sử dụng core Natural language processing (NLP) để phân tích text từ https://github.com/vncorenlp/VnCoreNLP 
 
 ### 4. Kết quả
 **Hình minh họa**
-<kbd><img title="Hình minh họa" src="https://raw.githubusercontent.com/namntdev/Data-Extraction/master/result.png"></kbd><br/>
+<kbd><img title="Hình minh họa" src="https://raw.githubusercontent.com/namntdev/Data-Extraction/master/result.jpg"></kbd><br/>
 
 **Link video**
 https://youtu.be/vnWv7vRWLx4
