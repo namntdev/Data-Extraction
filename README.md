@@ -1,14 +1,14 @@
 # Data extraction from audio
-### Bài toán:
+### 1. Bài toán:
 Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh, lời nói. 
 * Ví dụ: "Tôi cần mua bảo hiểm một xe kia morning và hai xe Mazda CX5" -> (1, Kia, morning) (2, Mazda, CX5)
 
-### Giải pháp sơ bộ: 
+### 2. Giải pháp sơ bộ: 
 * Thử nghiệm phát triển ứng dụng trên Android 
 * Dùng Google API sẵn có trên device để xử lý speech to text 
 * Tìm thư viện, platform xử lý text để hiểu nghĩa và phân tách các từ.
 
-### Tìm kiếm các giải pháp liên quan:
+### 3. Tìm kiếm các giải pháp liên quan:
 * Keywords:
 | data extraction from audio | speech to text vietnamese | nlp vietnamese |
 |---|---|---|
@@ -25,7 +25,7 @@ Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh,
 	* https://viblo.asia/p/ban-ve-xu-ly-ngon-ngu-tieng-viet-924lJYdYZPM
 	* https://github.com/undertheseanlp/underthesea/wiki/ 
 
-### Giải pháp demo:
+### 4. Giải pháp demo:
 * Client Android: 
 	* Sử dụng library sẵn có trong SDK phần chuyển từ voice sang text
 	* Gọi API lên server để phân tích đoạn text
@@ -33,7 +33,7 @@ Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh,
 	* Sử dụng framework Spring boot để dụng API 
 	* Sử dụng core Natural language processing (NLP) để phân tích text từ https://github.com/vncorenlp/VnCoreNLP 
 
-### 4. Kết quả
+### 5. Kết quả
 * Link video: https://youtu.be/vnWv7vRWLx4
 
 * Hình minh họa
