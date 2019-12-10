@@ -10,6 +10,7 @@ Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh,
 
 ### 3. Tìm kiếm các giải pháp liên quan:
 * Keywords:
+
 | data extraction from audio | speech to text vietnamese | nlp vietnamese |
 |----------------------------|---------------------------|----------------|
 | [keyword]                  | [keyword]                 | [keyword]      |
