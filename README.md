@@ -37,5 +37,5 @@ Muốn lưu dữ liệu có cấu trúc vào database bóc tách từ âm thanh,
 * Link video: https://youtu.be/vnWv7vRWLx4
 
 * Hình minh họa
-<kbd><img title="Hình minh họa" src="https://raw.githubusercontent.com/namntdev/Data-Extraction/master/result.jpg" width="200"></kbd><br/>
+<kbd><img title="Hình minh họa" src="https://raw.githubusercontent.com/namntdev/Data-Extraction/master/result.jpg" width="300"></kbd><br/>
 
